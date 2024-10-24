@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Trying out React",
+        "body": "React was designed from the ground up to be adopted incrementally. In other words, you can start small and use only the React functionality that you need at the moment. The information in this section will be useful in any situation: whether you are just getting started with React, building a simple dynamic HTML page, or even designing a complex React application.",
+        "href": "https://ru.legacy.reactjs.org/docs/getting-started.html"
+    },
+    {
+        "title": "Getting to Know JSX",
+        "body": "React operates on the principle that rendering logic is inextricably linked to other UI logic: how events are handled, how state changes over time, and how data is prepared for display. Instead of artificially separating technologies by putting markup and logic in different files, React separates concerns using loosely coupled units called “components” that contain both markup and logic. We’ll return to components in  the next chapter , but if you’re still uncomfortable with the idea of ​​keeping markup in your JavaScript code, this talk might change your mind.",
+        "href": "https://ru.legacy.reactjs.org/docs/introducing-jsx.html"
+    },
+    {
+        "title": "Conditional rendering",
+        "body": "React allows you to split your logic into independent components. These components can be shown or hidden depending on the current state. Conditional rendering in React works similarly to how conditionals work in JavaScript. Sometimes you need to explain to React how state affects which components need to be hidden and which need to be rendered, and how. In these situations, use JavaScript's conditional operator or statements like if.",
+        "href": "https://ru.legacy.reactjs.org/docs/conditional-rendering.html"
+    },
+    {
+        "title": "Forms",
+        "body": "By default, the browser navigates to another page when submitting HTML forms, including this one. If you're happy with that, you don't need to change anything; React forms work as usual. However, it's often more convenient to handle the form using a JavaScript function that has access to the entered data. The standard way to implement this behavior is called.",
+        "href": "https://ru.legacy.reactjs.org/docs/forms.html"
+    }
+
+]
